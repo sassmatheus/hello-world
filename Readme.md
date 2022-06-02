@@ -1,0 +1,1 @@
+Repositório teste: entendendo git.
