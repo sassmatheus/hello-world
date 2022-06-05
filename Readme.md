@@ -1,3 +1,3 @@
 Repositório teste: entendendo git.
 
-git
+github
